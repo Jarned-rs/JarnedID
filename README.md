@@ -1,2 +1,3 @@
-# JarnedID
-A NFC business card with adjustable content
+# T-Pad
+A basic telemetry module that will track 8 different metrics
+
