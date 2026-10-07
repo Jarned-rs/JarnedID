@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Seeed XIAO RP2040](https://www.aliexpress.com/item/1005006987582110.html?spm=a2g0o.cart.0.0.33f038da6NRDaZ&mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) | The main controller of the system | 1 | $10.17 | $10.17 | [AliExpress](https://www.aliexpress.com/item/1005006987582110.html?spm=a2g0o.cart.0.0.33f038da6NRDaZ&mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
 | [BH1750](https://www.aliexpress.com/item/1005006389610861.html?spm=a2g0o.cart.0.0.33f038da6NRDaZ&mp=1) | Light sensor | 1 | $1.47 | $1.47 | [AliExpress](https://www.aliexpress.com/item/1005006389610861.html?spm=a2g0o.cart.0.0.33f038da6NRDaZ&mp=1) |
-| **Parts subtotal** | — | — | — | **$11.64** | — |
+| **Parts subtotal** | — | — | — | **$1.47** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.64** | — |
+| **Total** | — | — | — | **$1.47** | — |
 
-$18.36 left of the tier's funding.
+$28.53 left of the tier's funding.
