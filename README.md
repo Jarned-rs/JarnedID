@@ -1,7 +1,7 @@
 # T-Pad
 - The T-Pad is a basic telemetry module that will track different metrics using 4 main sensors and then send those metrics to a web dashboard. I made this project as an intro into sensors to use as reference to future projects with sensors and data being fed back to a main dashboard.
 
-#How it works
+# How it works
 - The board's brain is a RP2040 Zero that will then send info back to the computer via USB. The board features the following:
   -   A BME280 to track temperature and humidity
   -   A RP2040 as the brain
@@ -9,7 +9,7 @@
   -   BH1750 to track light intensity
   -   A BMI 270 as a gyroscope and accelerometer
 
-#Photos
+# Photos
 Schematic:
 <img width="2191" height="1225" alt="image" src="https://github.com/user-attachments/assets/36f65ffd-ce72-48c6-93a3-255ff315f49b" />
 
