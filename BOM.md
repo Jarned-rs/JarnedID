@@ -19,7 +19,7 @@
 | [BH1750](https://www.aliexpress.com/item/1005006389610861.html?spm=a2g0o.cart.0.0.30cf38da4tNk5M&mp=1) | Light intensity sensor | 1 | $1.47 | $1.47 | [AliExpress](https://www.aliexpress.com/item/1005006389610861.html?spm=a2g0o.cart.0.0.30cf38da4tNk5M&mp=1) |
 | [BMI 270](https://www.aliexpress.com/item/1005013120369570.html?spm=a2g0o.cart.0.0.30cf38da4tNk5M&mp=1) | Accelerometer/Gyroscope | 1 | $4.53 | $4.53 | [AliExpress](https://www.aliexpress.com/item/1005013120369570.html?spm=a2g0o.cart.0.0.30cf38da4tNk5M&mp=1) |
 | **Parts subtotal** | — | — | — | **$16.38** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.38** | — |
+| **Tax & shipping** | — | — | — | **$3.61** | — |
+| **Total** | — | — | — | **$19.99** | — |
 
-$13.62 left of the tier's funding.
+$10.01 left of the tier's funding.
